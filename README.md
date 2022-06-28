@@ -4,8 +4,11 @@ Hi 👋 My name is Seanan Chabra
 Senior Software Engineer
 ------------------------
 
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [seananchabra@gmail.com](mailto:seananchabra@gmail.com)
+I have been coding professionally for over 6 years. I found my passion for software after taking the biggest L in a hackathon, contact me, I'd love to tell you more about it.
+
+* 🌍  I'm based in Toronto, Ontario
+* ✉️  You can contact me at [seananchabra@hotmail.com](mailto:seananchabra@hotmail.com)
+* 🧠  I'm learning React, FastAPI
 
 <a href="https://www.github.com/xcobaltz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xcobaltz?logo=github&style=for-the-badge&color=64748b&labelColor=0f172a" /></a>
